@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Bikram793/Bikram793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![bikram793's github stats](https://github-readme-stats.vercel.app/api?username=bikram793&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikram793&show_icons=true&theme=cobalt" alt="Bikram" />
+  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikram793&show_icons=true&theme=cobalt)
+
+</div>
